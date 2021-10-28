@@ -1,0 +1,12 @@
+Reading io_ports.hex
+io_ports.hex loaded into memory
+Memory 5 bytes = 0xxx 0xxx 0xxx 0xxx 0xxx
+VCD info: dumpfile io_ports.vcd opened for output.
+GPO state = zzzzzzzzzzzzzzzzzzzz1zzz 
+GPO state = zzzzzzzzzzzzzzzzzzzzzzzz 
+GPO state = 000000000000000000000000 
+GPO state = 101010111100110111101111 
+GPO state = 101010111100110111101111 
+Monitor: Test 1 Mega-Project IO (RTL) Passed
+rm io_ports.elf io_ports.vvp
+

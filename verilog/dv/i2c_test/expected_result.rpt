@@ -1,0 +1,49 @@
+vvp i2c_test.vvp
+Memory 5 bytes = 0xxx 0xxx 0xxx 0xxx 0xxx
+Reading i2c_test.hex
+i2c_test.hex loaded into memory
+Memory 5 bytes = 0xxx 0xxx 0xxx 0xxx 0xxx
+WARNING: ../../../verilog/user_behav_models/W25Q32JVxxIM.v:356: $readmemh(/home/siva/Documents/caravel_user_project_extended/verilog/user_behav_models/MEM.txt): Not enough words in the file for the requested range [0:4194303].
+ERROR: ../../../verilog/user_behav_models/W25Q32JVxxIM.v:357: $readmemh: Unable to open SECSI.TXT for reading.
+ERROR: ../../../verilog/user_behav_models/W25Q32JVxxIM.v:358: $readmemh: Unable to open SFDP.TXT for reading.
+WARNING: ../../../verilog/user_behav_models/W25Q32JVxxIM.v:359: $readmemh: Standard inconsistency, following 1364-2005.
+ERROR: ../../../verilog/user_behav_models/W25Q32JVxxIM.v:359: $readmemh: Unable to open SREG.TXT for reading.
+VCD info: dumpfile i2c_test.vcd opened for output.
+GPO state = zzzzZ 
+GPO state = zzzzZ 
+GPO state = zzzzz 
+GPO state = 00000 
+GPO state = 00000 
+GPO state = 00000 
+GPO state = 00000 
+GPO state = 00000 
+GPO state = 00000 
+GPO state = 00000 
+GPO state = 00000 
+GPO state = 00000 
+GPO state = 00000 
+GPO state = 00000 
+GPO state = 00000 
+GPO state = 00000 
+GPO state = 00000 
+GPO state = 00000 
+GPO state = 00000 
+GPO state = 00000 
+GPO state = 00000 
+GPO state = 00000 
+GPO state = 00000 
+GPO state = 00000 
+GPO state = 00000 
+GPO state = 00000 
+GPO state = 00000 
+GPO state = 00000 
+GPO state = 00000 
+GPO state = 00000 
+GPO state = 00000 
+GPO state = 00000 
+GPO state = 00000 
+GPO state = abcde 
+GPIO state = 10101011110011011110 
+Monitor: Test 1 Mega-Project IO (RTL) Passed
+rm i2c_test.elf i2c_test.vvp
+

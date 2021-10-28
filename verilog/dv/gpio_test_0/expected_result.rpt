@@ -1,0 +1,15 @@
+vvp gpio_test.vvp
+Memory 5 bytes = 0xxx 0xxx 0xxx 0xxx 0xxx
+Reading gpio_test.hex
+gpio_test.hex loaded into memory
+Memory 5 bytes = 0xxx 0xxx 0xxx 0xxx 0xxx
+VCD info: dumpfile gpio_test.vcd opened for output.
+GPO state = zzzzZ 
+GPO state = zzzzz 
+GPO state = 00000 
+GPO state = abcde 
+GPO state = edcba 
+GPIO state = 11101101110010111010 
+Monitor: Test 1 Mega-Project IO (RTL) Passed
+rm gpio_test.elf gpio_test.vvp
+

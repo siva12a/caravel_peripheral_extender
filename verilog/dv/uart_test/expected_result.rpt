@@ -1,0 +1,21 @@
+Memory 5 bytes = 0xxx 0xxx 0xxx 0xxx 0xxx
+Reading io_ports.hex
+io_ports.hex loaded into memory
+Memory 5 bytes = 0xxx 0xxx 0xxx 0xxx 0xxx
+VCD info: dumpfile uart_tb.vcd opened for output.
+GPO state = zzzzZ 
+GPO state = zzzzz 
+GPO state = 00000 
+GPO state = 00000 
+GPO state = 00000 
+GPO state = 00000 
+GPO state = 00000 
+GPO state = 00000 
+GPO state = 00000 
+GPO state = 00000 
+GPO state = 00000 
+GPO state = abcde 
+GPIO state = 10101011110011011110 
+Monitor: Test 1 Mega-Project IO (RTL) Passed
+rm io_ports.vvp
+
